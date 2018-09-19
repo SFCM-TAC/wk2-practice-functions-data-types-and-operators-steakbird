@@ -1,12 +1,14 @@
 body {
-  font-family: arial;
+  font-family: verdana, arial;
+  font-style: normal;
+
 }
 
 .question {
   margin: 10px 0 10px 0;
 }
 .results {
-  border: 1px solid;
+  border: 1px dashed;
   padding: 10px;
-  margin-bottom: 10px;
+  margin: 2%  2% ;
 }
